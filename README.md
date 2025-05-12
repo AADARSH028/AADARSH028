@@ -30,7 +30,7 @@ I love working with:
 ## 📫 Connect With Me
 
 - 🌐 GitHub: [github.com/your-username](https://github.com/your-username)
-- 📧 Email: your.email@example.com
+- 📧 Email: adar843462@gmail.com
 - 📘 LinkedIn: [linkedin.com/in/adarshkumar](https://linkedin.com/in/adarsh-kumar-68116b212)
 
 ---
