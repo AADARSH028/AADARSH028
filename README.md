@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Adarsh Kumar!
 
-🎓 Aspiring Data Scientist | 🧠 Lifelong Learner | 💻 Python Enthusiast
+🎓  Data Scientist | 🧠 Lifelong Learner | 💻 Python Enthusiast
 
 ---
 
