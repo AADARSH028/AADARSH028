@@ -31,7 +31,7 @@ I love working with:
 
 - 🌐 GitHub: [github.com/your-username](https://github.com/your-username)
 - 📧 Email: adar843462@gmail.com
-- 📘 LinkedIn: [linkedin.com/in/adarshkumar](https://linkedin.com/in/adarsh-kumar-68116b212)
+- 📘 LinkedIn: [linkedin.com/in/adarshkumar](www.linkedin.com/in/ad-kumar-a2492638b)
 
 ---
 
