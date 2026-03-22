@@ -180,9 +180,9 @@ adarsh.say_hello()
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Adarsh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AADARSH028)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithesha2002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//adarsh-kumar-29a761353)
 [![Twitter/X](https://img.shields.io/badge/Twitter-Adarsh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/codewithesha)
-[![Instagram](https://img.shields.io/badge/Instagram-Adarsh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i__hype__in/)
+[![Instagram](https://img.shields.io/badge/Instagram-Adarsh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adarshkumar002/)
 
 </div>
 
